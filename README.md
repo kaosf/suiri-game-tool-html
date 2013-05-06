@@ -1,0 +1,1 @@
+# Suiri game memo tool
